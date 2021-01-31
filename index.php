@@ -1,1 +1,1 @@
-<?php header('Location: pages/ocean-biome.php'); exit(); ?>
+<?php header('Location: pages/1-0-index.php'); exit(); ?>
