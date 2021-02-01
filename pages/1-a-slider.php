@@ -14,7 +14,6 @@
               <div class="carousel-content">
                 <h2 data-aos="fade-up">OceanBiome</h2>
               </div>
-            </div>
           </div>
 
           <!-- Slide 2 -->
