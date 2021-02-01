@@ -1,33 +1,7 @@
 <!DOCTYPE html>
-<html class="template-page-home-1">
+<html lang="en">
 
 <head>
-<<<<<<< HEAD
-	<title>Ocean Biome</title>
-	<meta name="keywords" content="" />
-	<meta name="description" content="We are a group of young people who are captivated by oceanic research and we want to construct an environment for our next generation to involve,learn and engage in the study of the ocean." />
-	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700italic,700,400italic%7CLato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic%7COpen+Sans:Open+Sans:400,800italic,800,700italic,700,600italic,600,400italic,300italic,300%7CHandlee">
-	<link rel="stylesheet" type="text/css" href="../style/megafish.css" />
-	<link rel="stylesheet" type="text/css" href="../style/superfish.css" />
-	<link rel="stylesheet" type="text/css" href="../style/flexslider.css" />
-	<link rel="stylesheet" type="text/css" href="../style/jquery.qtip.css" />
-	<link rel="stylesheet" type="text/css" href="../style/jquery-ui.min.css" />
-	<link rel="stylesheet" type="text/css" href="../style/jquery-supersized.css" />
-	<link rel="stylesheet" type="text/css" href="../style/jquery.nivo.slider.css" />
-	<link rel="stylesheet" type="text/css" href="../style/fancybox/jquery.fancybox.css" />
-	<link rel="stylesheet" type="text/css" href="../style/fancybox/helpers/jquery.fancybox-buttons.css" />
-	<link rel="stylesheet" type="text/css" href="../style/revslider/layers.css" />
-	<link rel="stylesheet" type="text/css" href="../style/revslider/settings.css" />
-	<link rel="stylesheet" type="text/css" href="../style/revslider/navigation.css" />
-	<link rel="stylesheet" type="text/css" href="../style/base.css" />
-	<link rel="stylesheet" type="text/css" href="../style/responsive.css" />
-	<link rel="stylesheet" type="text/css" href="../style/retina.css" />
-	<script type="text/javascript" src="../script/jquery.min.js"></script>
-	<script type="text/javascript" src="../script/google-form.js"></script>
-	<?php include('0-1-cookies-consent.php'); ?>
-=======
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -71,10 +45,9 @@
   <?php include('0-1-cookie-consent.php'); ?>
 
   <!-- Template Main CSS File -->
-  <link href="../assets/css/style.css" rel="stylesheet">
+  <link href="assets/css/style.css" rel="stylesheet">
 
->>>>>>> dev
 </head>
 
-<body class="template-page-home-1">
-<?php include('0-2-menu-bar.php'); ?>
+<body>
+  <?php include('0-2-menu-bar.php'); ?>
