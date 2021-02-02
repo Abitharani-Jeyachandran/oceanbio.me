@@ -13,15 +13,15 @@
             <li class="drop-down"><a href="2-0-about.php#funding_partners">Partners</a>
               <ul>
                 <li><a href="2-0-about.php#funding_partners">Funding Partners</a></li>
-                <li><a href="2-0-about.php2-0-about.php#project_partners">Project Partners</a></li>
+                <li><a href="2-0-about.php#project_partners">Project Partners</a></li>
                 <li><a href="2-0-about.php#network_partners">Network Partners</a></li>
               </ul>
             </li>
             <li><a href="2-0-about.php#awards">Achievements & Awards</a></li>
           </ul>
         </li>
-        <li><a href="1-0-index.php1-0-index.php#activity">activities</a></li>
-        <li><a href="1-0-index.php#products">Products</a></li>
+        <li><a href="1-0-index.php#activity">activities</a></li>
+        <li><a href="1-0-index.php#product">Products</a></li>
         <li><a href="1-0-index.php#feature">Features</a></li>
 
       </ul>

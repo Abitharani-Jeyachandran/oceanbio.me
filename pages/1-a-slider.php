@@ -16,6 +16,7 @@
               </div>
             </div>
           </div>
+        </div>
 
           <!-- Slide 2 -->
           <div class="carousel-item" style="background: url(../assets\img\37130.jpg);" class="d-block w-100">
