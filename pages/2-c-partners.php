@@ -99,7 +99,7 @@
 
         <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
           <div class="member">
-            <img src="../assets\img\about-oceanbiome\partners-oceanbiome\oceanbiome-sylc.jpg" class="img-fluid" alt="">
+            <img src="../assets\img\about-oceanbiome\partners-oceanbiome\oceanbiome-aracreate.jpg" class="img-fluid" alt="">
             <div class="member-content">
               <h4>araCreate</h4>
               <div class="social">
