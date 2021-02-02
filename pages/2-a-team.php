@@ -23,7 +23,7 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about\core-team\aravinth.png" class="img-fluid" alt="">
+          <img src="../assets\img\about\core-team\aravinth-100.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Aravinth Panch</h4>
             <span>Co-founder | Guardian of Networking</span>
