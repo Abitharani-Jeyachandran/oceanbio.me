@@ -8,18 +8,17 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background: url(../assets\img\37130.jpg);" class="d-block w-100">
-            <div class="carousel-background"><img src="../assets\img\37130.jpg" alt=""></div>
+          <div class="carousel-item active" style="background: url(../assets\img\oceanbiome-slider\oceanbiome-ocean-biome-100.jpg);" class="d-block w-100">
+            <div class="carousel-background"><img src="../assets\img\oceanbiome-slider\oceanbiome-ocean-biome-100.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 data-aos="fade-up">OceanBiome</h2>
               </div>
             </div>
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background: url(../assets\img\37130.jpg);" class="d-block w-100">
-            <div class="carousel-background"><img src="../assets\img\37130.jpg" alt=""></div>
+          <div class="carousel-item" style="background: url(../assets\img\oceanbiome-slider\oceanbiome-ocean-education-100.jpg);" class="d-block w-100">
+            <div class="carousel-background"><img src="../assets\img\oceanbiome-slider\oceanbiome-ocean-education-100.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 data-aos="fade-up">Ocean Education</h2>
@@ -28,8 +27,8 @@
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background: url(../assets\img\4267901.jpg);" class="d-block w-100">
-            <div class="carousel-background"><img src="../assets\img\4267901.jpg" alt=""></div>
+          <div class="carousel-item" style="background: url(../assets\img\oceanbiome-slider\oceanbiome-ocean-story-telling.jpg);" class="d-block w-100">
+            <div class="carousel-background"><img src="../assets\img\oceanbiome-slider\oceanbiome-ocean-story-telling.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 data-aos="fade-up">Ocean Storytelling</h2>
@@ -38,8 +37,8 @@
           </div>
 
           <!-- Slide 4 -->
-          <div class="carousel-item" style="background: url(../assets\img\4267901.jpg);" class="d-block w-100">
-            <div class="carousel-background"><img src="../assets\img\4267901.jpg" alt=""></div>
+          <div class="carousel-item" style="background: url(../assets\img\oceanbiome-slider\oceanbiome-ocean-technology-100.jpg);" class="d-block w-100">
+            <div class="carousel-background"><img src="../assets\img\oceanbiome-slider\oceanbiome-ocean-technology-100.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 data-aos="fade-up">Ocean Technology</h2>
@@ -48,8 +47,8 @@
           </div>
 
           <!-- Slide 5 -->
-          <div class="carousel-item" style="background: url(../assets\img\4267901.jpg);" class="d-block w-100">
-            <div class="carousel-background"><img src="../assets\img\4267901.jpg" alt=""></div>
+          <div class="carousel-item" style="background: url(../assets\img\oceanbiome-slider\oceanbiome-ocean-community.jpg);" class="d-block w-100">
+            <div class="carousel-background"><img src="../assets\img\oceanbiome-slider\oceanbiome-ocean-community.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 data-aos="fade-up">Ocean Community</h2>
