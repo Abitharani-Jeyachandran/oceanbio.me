@@ -23,7 +23,7 @@
     var res = confirm("Thank you for your message. \n\nWe will respond to you as soon as possible. \n\nKind regards, \nOceanBiome");
     if (res == true)
     {
-      window.location.replace("oceanbio.me");
+      window.location.replace("https://oceanbio.me/pages/1-0-index.php");
     }
 
     return false;
