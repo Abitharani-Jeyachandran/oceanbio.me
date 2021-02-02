@@ -549,8 +549,8 @@ section {
 /*--------------------------------------------------------------
 # About Boxes
 --------------------------------------------------------------*/
-.about-boxes1 {
-  background: url("../img\oceanbiome-scroll\oceanbiome-img8-100.jpg") center top no-repeat fixed;
+.about-boxes {
+  background: url("../assets\img\oceanbiome-scroll\oceanbiome-img8-100.jpg") center top no-repeat fixed;
   background-size: cover;
   padding: 60px 0 300px 0;
   position: relative;

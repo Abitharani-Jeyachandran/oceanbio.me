@@ -23,7 +23,7 @@
 </section>
 <!--========================= about start========================= -->
 
-<section id="about-boxes1" class="about-boxes1">
+<section id="about-boxes" class="about-boxes">
 <div class="container" data-aos="fade-up">
 </div>
 </section>
