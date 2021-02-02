@@ -75,7 +75,7 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\nush-oceanbiome.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\oceanbiome-abinayan.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Abinayan Balasubramaniyam</h4>
             <span>Founding member | Guardian of Administaton</span>
@@ -344,7 +344,7 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\vishan-oceanbiome.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\abitharani-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Abitharani Jeyachandran</h4>
             <span>Web Designer</span>
@@ -357,7 +357,7 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\vishan-oceanbiome.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\oceanbiome-sherun.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Sherun Sivanesan</h4>
             <span>Founding member | 3D Designer</span>

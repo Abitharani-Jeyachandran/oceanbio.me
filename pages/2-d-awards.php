@@ -13,9 +13,9 @@
           <img src="../assets\img\about-oceanbiome\awards-oceanbiome\oceanbiome-genu.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>GenU</h4>
-            <span></span>
+            <span>2020</span>
             <div class="social">
-              <a href=""><i class="icofont-linkedin"></i></a>
+              <a href="https://undpsrilanka.exposure.co/bringing-ideas-to-life?fbclid=IwAR1gHQXXMOdEbMixt32TeA4ll8krLaNpj7P5Wcik5NMjTDJ44jDLS9BB0HI"><i class="icofont-world"></i></a>
             </div>
           </div>
         </div>
