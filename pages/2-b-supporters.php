@@ -39,7 +39,7 @@
           <img src="../assets\img\about-oceanbiome\supporters-oceanbiome\oceanbiome-supporter-raymond.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Raymond</h4>
-            <span>Stoyteler | Founder of Labora[s]tory</span>
+            <span>Stoyteller | Founder of Labora[s]tory</span>
             <div class="social">
               <a href=""><i class="icofont-linkedin"></i></a>
             </div>
