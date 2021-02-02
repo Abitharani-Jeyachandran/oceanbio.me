@@ -76,7 +76,7 @@ nurture local individuals in Sri Lanka to protect the Ocean Ecosystem</p>
 </div>
 </section>
 
-<section id="about-boxes" class="about-boxes">
+<section id="about-boxes" class="about-boxes2">
 <div class="container" data-aos="fade-up">
 </div>
 </section>

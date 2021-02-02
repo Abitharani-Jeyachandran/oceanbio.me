@@ -43,7 +43,7 @@
   </div>
 </section><!-- End product Section -->
 
-<section id="about-boxes" class="about-boxes">
+<section id="about-boxes" class="about-boxes3">
   <div class="container" data-aos="fade-up">
   </div>
 </section>
