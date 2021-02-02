@@ -88,7 +88,7 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\nush-oceanbiome.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\oceanbiome-nafha.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Mohamed Musthafa Fathima Nafha</h4>
             <span>Guardian of Perfomance Marketing</span>

@@ -13,7 +13,7 @@
           <img src="../assets\img\about-oceanbiome\supporters-oceanbiome\oceanbiome-supporter-darina.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Darina Onoprienko</h4>
-            <span>Communications, The Costal Nomads</span>
+            <span>Head of Communications, The Costal Nomads</span>
             <div class="social">
               <a href="https://www.linkedin.com/in/darina-onoprienko/"><i class="icofont-linkedin"></i></a>
             </div>
@@ -46,7 +46,7 @@
           </div>
         </div>
       </div>
-      
+
     </div>
 
   </div>

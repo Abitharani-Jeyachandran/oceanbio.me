@@ -593,7 +593,7 @@ section {
 }
 
 .team .member img {
-  margin: -2px -2px 30px -2px;
+  margin: -2px -2px 10px -2px;
 }
 
 .team .member .member-content {
@@ -617,12 +617,12 @@ section {
 }
 
 .team .member .social a {
-  color: #7e9486;
+  color: #274D6C;
   transition: 0.3s;
 }
 
 .team .member .social a:hover {
-  color: #5fcf80;
+  color: #65B5C7;
 }
 
 .team .member .social i {
