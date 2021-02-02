@@ -13,7 +13,7 @@
           <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\shanjeevan-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Shanjeevan Amalanathan</h4>
-            <span>Co-founder | Guardian of Operation</span>
+            <span>Co-founder | Guardian of Operation</span></br>
             <div class="social">
               <a href="https://www.linkedin.com/in/shanjeevan-amalanathan"><i class="icofont-linkedin"></i></a>
             </div>
@@ -26,7 +26,7 @@
           <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\aravinth-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Aravinth Panch</h4>
-            <span>Co-founder | Guardian of Networking</span>
+            <span>Co-founder | Guardian of Networking</span></br>
             <div class="social">
               <a href="https://www.linkedin.com/in/aravinthpanch/"><i class="icofont-linkedin"></i></a>
             </div>
@@ -104,7 +104,7 @@
           <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\nush-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Rakesh Jegan</h4>
-            <span>Guardian of Finance</span>
+            <span>Guardian of Finance</span></br>
             <div class="social">
               <a href="https://www.linkedin.com/in/rakesh-jegan-44b961203"><i class="icofont-linkedin"></i></a>
             </div>
