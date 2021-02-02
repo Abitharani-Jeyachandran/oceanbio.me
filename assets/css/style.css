@@ -369,7 +369,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .carousel-item img {
   height: 100vh;
   background-size: cover;
-  background-position: left center;
+  background-position: center;
   background-repeat: no-repeat;
 }
 
@@ -549,8 +549,22 @@ section {
 /*--------------------------------------------------------------
 # About Boxes
 --------------------------------------------------------------*/
-.about-boxes {
-  background: url("../img/about-boxes-bg.jpg") center top no-repeat fixed;
+.about-boxes1 {
+  background: url("../img\oceanbiome-scroll\oceanbiome-img8-100.jpg") center top no-repeat fixed;
+  background-size: cover;
+  padding: 60px 0 300px 0;
+  position: relative;
+}
+
+.about-boxes2 {
+  background: url("../img\oceanbiome-scroll\oceanbiome-img6-100.jpg") center top no-repeat fixed;
+  background-size: cover;
+  padding: 60px 0 300px 0;
+  position: relative;
+}
+
+.about-boxes3 {
+  background: url("../img\oceanbiome-scroll\oceanbiome-img7-100.jpg") center top no-repeat fixed;
   background-size: cover;
   padding: 60px 0 300px 0;
   position: relative;

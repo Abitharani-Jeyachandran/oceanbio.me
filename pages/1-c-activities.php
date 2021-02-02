@@ -8,7 +8,7 @@
 <div class="row align-items-center" data-aos="fade-up" data-aos-delay="100">
   <div class="col-lg-6 col-md-3 col-sm-12 order-lg-2">
     <div>
-      <img class="img-fluid" src="../assets\img\4267901.jpg" alt="">
+      <img class="img-fluid" src="../assets\img\oceanbiome-activities\oceanbiome-education.jpg" alt="">
     </div>
   </div>
   <div class="col-lg-6 col-md-9 col-sm-12 order-lg-1">
@@ -76,7 +76,7 @@ nurture local individuals in Sri Lanka to protect the Ocean Ecosystem</p>
 </div>
 </section>
 
-<section id="about-boxes" class="about-boxes">
+<section id="about-boxes2" class="about-boxes2">
 <div class="container" data-aos="fade-up">
 </div>
 </section>

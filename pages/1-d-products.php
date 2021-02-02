@@ -31,7 +31,7 @@
       <div class="col-lg-4 col-md-4 col-sm-12 d-flex align-items-stretch" data-aos="fade-up">
         <div class="card">
           <div class="card-img">
-            <img src="../assets\img\events-1.jpg" alt="...">
+            <img src="../assets\img\oceanbiome-products\oceanbiome-product-education-100.jpg" alt="...">
           </div>
           <div class="card-body">
             <h5 class="card-title"><a href="">Ocean Education</a></h5>
@@ -43,7 +43,7 @@
   </div>
 </section><!-- End product Section -->
 
-<section id="about-boxes" class="about-boxes">
+<section id="about-boxes3" class="about-boxes3">
   <div class="container" data-aos="fade-up">
   </div>
 </section>
