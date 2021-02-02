@@ -549,7 +549,7 @@ section {
 /*--------------------------------------------------------------
 # About Boxes
 --------------------------------------------------------------*/
-.about-boxes {
+.about-boxes1 {
   background: url("../img/about-boxes-bg.jpg") center top no-repeat fixed;
   background-size: cover;
   padding: 60px 0 300px 0;
