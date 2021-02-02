@@ -49,3 +49,8 @@
 
   </div>
 </section><!-- End feature Section -->
+
+<section id="about-boxes" class="about-boxes4">
+<div class="container" data-aos="fade-up">
+</div>
+</section>

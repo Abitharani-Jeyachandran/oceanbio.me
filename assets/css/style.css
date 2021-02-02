@@ -570,6 +570,13 @@ section {
   position: relative;
 }
 
+.about-boxes4 {
+  background: url("../img/about-boxes-bg4.jpg") center top no-repeat fixed;
+  background-size: cover;
+  padding: 60px 0 300px 0;
+  position: relative;
+}
+
 /*--------------------------------------------------------------
 # team
 --------------------------------------------------------------*/
