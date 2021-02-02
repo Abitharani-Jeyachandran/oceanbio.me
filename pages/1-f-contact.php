@@ -1,5 +1,4 @@
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7907.384489350529!2d81.711076!3d7.716133!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa716d85248eadbf9!2sDreamSpace%20Academy!5e0!3m2!1sen!2slk!4v1611741982081!5m2!1sen!2slk" width="100%" height="350" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-<!-- ======= Contact Us Section ======= -->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2170.6451860150696!2d81.71097441199689!3d7.715889497284465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwNDInNTguMCJOIDgxwrA0MiczOS45IkU!5e0!3m2!1sen!2slk!4v1612291643618!5m2!1sen!2slk" width="100%" height="380" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe><!-- ======= Contact Us Section ======= -->
 <section id="contact" class="contact">
   <div class="container">
 
@@ -13,7 +12,7 @@
         <div class="info-box text-center">
           <i class="bx bx-map"></i>
           <h3>Our Address</h3>
-          <p>DreamSpace Academy 7A, Saravana Road, Kallady Batticaloa, 30000 Sri Lanka.</p>
+          <p>7A, Saravana Road, Kallady Batticaloa, 30000 Sri Lanka.</p>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 mt-4 mt-lg-0" data-aos="fade-up" data-aos-delay="200">
