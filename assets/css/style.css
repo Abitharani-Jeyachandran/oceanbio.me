@@ -10,7 +10,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-team
+  font-family: "Raleway", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -509,7 +509,7 @@ section {
 
 .section-title span {
   font-family: "Raleway", sans-serif;
-  font-weight: 700;
+  font-weight: 900;
   font-size: 25px;
   display: block;
   color: #274D6C;
@@ -539,22 +539,8 @@ section {
 }
 
 /*--------We do section---------*/
-.shape {
-  position: absolute;
-}
-
-.shape img {
-  height: 350px;
-  width: 350px;
-}
-
 .about {
   position: relative;
-}
-
-.about .shape {
-left: -50px;
-padding-top: 100px;
 }
 
 .about p{
@@ -565,7 +551,7 @@ padding-top: 100px;
 }
 
 .about h2{
-  font-weight: 500;
+  font-weight: 700;
   font-size: 22px;
   color: #333;
 }
@@ -601,17 +587,17 @@ padding-top: 100px;
 
 .team .member {
   text-align: center;
-  margin-bottom: 0;
+  margin-bottom: 20px;
   background: #fff;
-  border: 1px solid #eef0ef;
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
 }
 
 .team .member img {
-  margin: -1px -1px 30px -1px;
+  margin: -2px -2px 30px -2px;
 }
 
 .team .member .member-content {
-  padding: 0 20px 20px 20px;
+  padding: 0 10px 10px 10px;
 }
 
 .team .member h4 {
