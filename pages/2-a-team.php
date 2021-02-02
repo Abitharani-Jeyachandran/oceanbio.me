@@ -23,7 +23,7 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about\core-team\aravinth.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\about\core-team\aravinth.png" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Aravinth Panch</h4>
             <span>Co-founder | Guardian of Networking</span>
@@ -36,7 +36,7 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about\core-team\Nush photogenic (6 of 16).JPG" class="img-fluid" alt="">
+          <img src="../assets\img\about\core-team\nush-100.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>William Anderson</h4>
             <span>Content</span>
@@ -49,7 +49,7 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about\core-team\rakesh.JPG" class="img-fluid" alt="">
+          <img src="../assets\img\about\core-team\rakesh.png" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Rakesh Jegan</h4>
             <span>Guardian of Finance</span>
@@ -62,7 +62,7 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about\core-team\akshaya.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\about\core-team\akshaya.png" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Akshaya Baskaran</h4>
             <span>Founding member | Guardian of Ocean Storyteing</span>
