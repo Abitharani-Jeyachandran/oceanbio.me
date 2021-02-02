@@ -3,7 +3,7 @@
   <div class="container" data-aos="fade-up">
 
     <div class="section-title col-xl-8 mx-auto text-center">
-      <span data-aos="fade-up">Features</span>
+      <span data-aos="fade-up">Featured</span>
       <p></p>
     </div>
 
@@ -11,7 +11,7 @@
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\features-oceanbiome\shanakiyan-speech.png" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
           <h3>Parliament Speech</h3>
@@ -23,7 +23,7 @@
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\features-oceanbiome\underwater-glider.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
           <h3>Underwater Glider</h3>
@@ -35,7 +35,7 @@
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="assets/img/event-birthday.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\features-oceanbiome\start-next.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
           <h3>Keynote speech</h3>
