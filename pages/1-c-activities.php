@@ -24,7 +24,7 @@ experiential learning modules</p>
 <div class="row align-items-center" data-aos="fade-up">
   <div class="col-lg-6 col-md-3 col-sm-12">
     <div>
-      <img class="img-fluid" src="../assets\img\4267901.jpg" alt="">
+      <img class="img-fluid" src="../assets\img\oceanbiome-activities\oceanbiome-activities-story-telling.jpg" alt="">
     </div>
   </div>
   <div class="col-lg-6 col-md-9 col-sm-12">
@@ -42,7 +42,7 @@ destruction</p>
 <div class="row align-items-center" data-aos="fade-up">
 <div class="col-lg-6 col-md-3 col-sm-12 order-lg-2">
   <div>
-    <img class="img-fluid" src="../assets\img\4267901.jpg" alt="">
+    <img class="img-fluid" src="../assets\img\oceanbiome-activities\oceanbiome-activities-tech.jpg" alt="">
   </div>
 </div>
 <div class="col-lg-6 col-md-9 col-sm-12 order-lg-1">
@@ -59,7 +59,7 @@ innovative solutions for ocean problems</p>
 <div class="row align-items-center" data-aos="fade-up">
   <div class="col-lg-6 col-md-3 col-sm-12">
     <div>
-      <img class="img-fluid" src="../assets\img\4267901.jpg" alt="">
+      <img class="img-fluid" src="../assets\img\oceanbiome-activities\oceanbiome-activities-ocean-community.jpg" alt="">
     </div>
   </div>
   <div class="col-lg-6 col-md-9 col-sm-12">
