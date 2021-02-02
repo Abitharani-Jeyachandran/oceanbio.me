@@ -10,7 +10,11 @@
     <div class="row" data-aos="zoom-in" data-aos-delay="100">
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
+<<<<<<< HEAD
           <img src="assets\img\about\core-team\shanjeevan.jpg" class="img-fluid" alt="">
+=======
+          <img src="../assets\img\about\core-team\shanjeevan.jpg" class="img-fluid" alt="">
+>>>>>>> 52604dd... Update team section
           <div class="member-content">
             <h4>Walter White</h4>
             <span>Web Development</span>
@@ -26,7 +30,11 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
+<<<<<<< HEAD
           <img src="assets\img\about\core-team\aravinth.jpg" class="img-fluid" alt="">
+=======
+          <img src="../assets\img\about\core-team\aravinth.jpg" class="img-fluid" alt="">
+>>>>>>> 52604dd... Update team section
           <div class="member-content">
             <h4>Sarah Jhinson</h4>
             <span>Marketing</span>
@@ -42,7 +50,11 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
+<<<<<<< HEAD
           <img src="assets\img\about\core-team\Nush photogenic (6 of 16).JPG" class="img-fluid" alt="">
+=======
+          <img src="../assets\img\about\core-team\Nush photogenic (6 of 16).JPG" class="img-fluid" alt="">
+>>>>>>> 52604dd... Update team section
           <div class="member-content">
             <h4>William Anderson</h4>
             <span>Content</span>
@@ -58,7 +70,11 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
+<<<<<<< HEAD
           <img src="assets\img\about\core-team\rakesh.JPG" class="img-fluid" alt="">
+=======
+          <img src="../assets\img\about\core-team\rakesh.JPG" class="img-fluid" alt="">
+>>>>>>> 52604dd... Update team section
           <div class="member-content">
             <h4>William Anderson</h4>
             <span>Content</span>
@@ -74,7 +90,11 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
+<<<<<<< HEAD
           <img src="assets\img\about\core-team\akshaya.jpg" class="img-fluid" alt="">
+=======
+          <img src="../assets\img\about\core-team\akshaya.jpg" class="img-fluid" alt="">
+>>>>>>> 52604dd... Update team section
           <div class="member-content">
             <h4>William Anderson</h4>
             <span>Content</span>
@@ -87,7 +107,6 @@
           </div>
         </div>
       </div>
-
     </div>
 
   </div>
