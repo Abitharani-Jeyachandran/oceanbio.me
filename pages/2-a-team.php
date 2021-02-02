@@ -3,7 +3,7 @@
   <div class="container" data-aos="fade-up">
 
     <div class="section-title col-xl-8 mx-auto text-center">
-      <span data-aos="fade-up">Features</span>
+      <span data-aos="fade-up">Core Team</span>
       <p></p>
     </div>
 
@@ -12,12 +12,9 @@
         <div class="member">
           <img src="../assets\img\about\core-team\shanjeevan.jpg" class="img-fluid" alt="">
           <div class="member-content">
-            <h4>Walter White</h4>
-            <span>Web Development</span>
+            <h4>Shanjeevan Amalanathan</h4>
+            <span>Co-founder | Guardian of Operation</span>
             <div class="social">
-              <a href=""><i class="icofont-twitter"></i></a>
-              <a href=""><i class="icofont-facebook"></i></a>
-              <a href=""><i class="icofont-instagram"></i></a>
               <a href=""><i class="icofont-linkedin"></i></a>
             </div>
           </div>
@@ -28,12 +25,9 @@
         <div class="member">
           <img src="../assets\img\about\core-team\aravinth.jpg" class="img-fluid" alt="">
           <div class="member-content">
-            <h4>Sarah Jhinson</h4>
-            <span>Marketing</span>
+            <h4>Aravinth Panch</h4>
+            <span>Co-founder | Guardian of Networking</span>
             <div class="social">
-              <a href=""><i class="icofont-twitter"></i></a>
-              <a href=""><i class="icofont-facebook"></i></a>
-              <a href=""><i class="icofont-instagram"></i></a>
               <a href=""><i class="icofont-linkedin"></i></a>
             </div>
           </div>
@@ -47,9 +41,6 @@
             <h4>William Anderson</h4>
             <span>Content</span>
             <div class="social">
-              <a href=""><i class="icofont-twitter"></i></a>
-              <a href=""><i class="icofont-facebook"></i></a>
-              <a href=""><i class="icofont-instagram"></i></a>
               <a href=""><i class="icofont-linkedin"></i></a>
             </div>
           </div>
@@ -60,12 +51,9 @@
         <div class="member">
           <img src="../assets\img\about\core-team\rakesh.JPG" class="img-fluid" alt="">
           <div class="member-content">
-            <h4>William Anderson</h4>
-            <span>Content</span>
+            <h4>Rakesh Jegan</h4>
+            <span>Guardian of Finance</span>
             <div class="social">
-              <a href=""><i class="icofont-twitter"></i></a>
-              <a href=""><i class="icofont-facebook"></i></a>
-              <a href=""><i class="icofont-instagram"></i></a>
               <a href=""><i class="icofont-linkedin"></i></a>
             </div>
           </div>
@@ -76,12 +64,9 @@
         <div class="member">
           <img src="../assets\img\about\core-team\akshaya.jpg" class="img-fluid" alt="">
           <div class="member-content">
-            <h4>William Anderson</h4>
-            <span>Content</span>
+            <h4>Akshaya Baskaran</h4>
+            <span>Founding member | Guardian of Ocean Storyteing</span>
             <div class="social">
-              <a href=""><i class="icofont-twitter"></i></a>
-              <a href=""><i class="icofont-facebook"></i></a>
-              <a href=""><i class="icofont-instagram"></i></a>
               <a href=""><i class="icofont-linkedin"></i></a>
             </div>
           </div>
