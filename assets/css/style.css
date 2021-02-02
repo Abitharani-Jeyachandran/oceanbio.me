@@ -550,21 +550,7 @@ section {
 # About Boxes
 --------------------------------------------------------------*/
 .about-boxes {
-  background: url("../assets\img\oceanbiome-scroll\oceanbiome-img8-100.jpg") center top no-repeat fixed;
-  background-size: cover;
-  padding: 60px 0 300px 0;
-  position: relative;
-}
-
-.about-boxes2 {
-  background: url("../img\oceanbiome-scroll\oceanbiome-img6-100.jpg") center top no-repeat fixed;
-  background-size: cover;
-  padding: 60px 0 300px 0;
-  position: relative;
-}
-
-.about-boxes3 {
-  background: url("../img\oceanbiome-scroll\oceanbiome-img7-100.jpg") center top no-repeat fixed;
+  background: url("../img/about-boxes-bg.jpg") center top no-repeat fixed;
   background-size: cover;
   padding: 60px 0 300px 0;
   position: relative;
