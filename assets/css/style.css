@@ -595,13 +595,13 @@ padding-top: 100px;
 /*--------------------------------------------------------------
 # team
 --------------------------------------------------------------*/
-.team{
-  padding-top: 60px;
+#team{
+  padding-top: 100px;
   }
-  
+
 .team .member {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 0;
   background: #fff;
   border: 1px solid #eef0ef;
 }
@@ -611,30 +611,23 @@ padding-top: 100px;
 }
 
 .team .member .member-content {
-  padding: 0 20px 30px 20px;
+  padding: 0 20px 20px 20px;
 }
 
 .team .member h4 {
-  font-weight: 700;
   margin-bottom: 2px;
-  font-size: 18px;
+  font-weight: 500;
+  font-size: 17px;
 }
 
 .team .member span {
-  font-style: italic;
   display: block;
   font-size: 13px;
-}
-
-.team .member p {
-  padding-top: 10px;
-  font-size: 14px;
-  font-style: italic;
-  color: #aaaaaa;
+  font-weight: 300;
 }
 
 .team .member .social {
-  margin-top: 15px;
+  margin-top: 10px;
 }
 
 .team .member .social a {

@@ -7,7 +7,7 @@
       <p></p>
     </div>
 
-    <div class="row" data-aos="zoom-in" data-aos-delay="100">
+    <div class="row" data-aos="fade-up">
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
           <img src="../assets\img\about-oceanbiome\awards-oceanbiome\oceanbiome-genu.jpg" class="img-fluid" alt="">

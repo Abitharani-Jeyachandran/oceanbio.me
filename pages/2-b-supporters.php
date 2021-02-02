@@ -1,5 +1,5 @@
 <!-- ======= Trainers Section ======= -->
-<section id="team" class="team">
+<section id="supporters" class="team">
   <div class="container" data-aos="fade-up">
 
     <div class="section-title col-xl-8 mx-auto text-center">
@@ -7,7 +7,7 @@
       <p></p>
     </div>
 
-    <div class="row" data-aos="zoom-in" data-aos-delay="100">
+    <div class="row" data-aos="fade-up">
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
           <img src="../assets\img\about-oceanbiome\supporters-oceanbiome\oceanbiome-supporter-akshay.jpg" class="img-fluid" alt="">

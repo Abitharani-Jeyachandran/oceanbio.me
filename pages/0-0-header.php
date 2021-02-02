@@ -31,7 +31,7 @@
   <link rel="icon" type="image/png" sizes="16x16" href="../assets\img\favicon-ocean-biome\favicon-16x16.png">
   <link rel="manifest" href="../assets\img\favicon-ocean-biome\site.webmanifest">
   <!-- Google Fonts -->
-  <link href="http://fonts.googleapis.com/css?family=Raleway:600,700,800" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
   <link href="../assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
