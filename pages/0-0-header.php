@@ -12,17 +12,17 @@
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://metatags.io/">
+  <meta property="og:url" content="https://oceanbio.me/pages/1-0-index.php">
   <meta property="og:title" content="OceanBiome">
   <meta property="og:description" content="OceanBiome is a community of talents with a focus on ocean research to map the path to engage in Ocean Protection to enable the next generation of leaders to engage in ocean literacy and stewardship to become ocean ambassadors in Sri Lanka.">
-  <meta property="og:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+  <meta property="og:image" content="">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://metatags.io/">
+  <meta property="twitter:url" content="https://oceanbio.me/pages/1-0-index.php">
   <meta property="twitter:title" content="OceanBiome">
   <meta property="twitter:description" content="OceanBiome is a community of talents with a focus on ocean research to map the path to engage in Ocean Protection to enable the next generation of leaders to engage in ocean literacy and stewardship to become ocean ambassadors in Sri Lanka.">
-  <meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png">
+  <meta property="twitter:image" content="">
   <!-- Favicons -->
   <link rel="shortcut icon" type="image/x-icon" href="../assets\img\favicon-ocean-biome\favicon.ico">
   <link rel="apple-touch-icon" sizes="180x180" href="../assets\img\favicon-ocean-biome\apple-touch-icon.png">
