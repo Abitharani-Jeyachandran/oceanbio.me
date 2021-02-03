@@ -401,7 +401,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #intro h2 {
   color: #fff;
-  margin-top: 280px;
+  margin-top: 250px;
   font-size: 40px;
   font-weight: 700;
 }
@@ -409,12 +409,6 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 768px) {
   #intro h2 {
     font-size: 28px;
-  }
-}
-
-@media (min-width: 1024px) {
-  #intro p {
-    width: 60%;
   }
 }
 
@@ -465,25 +459,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #intro .carousel-indicators li {
   cursor: pointer;
-}
-
-#intro .btn-get-started {
-  font-family: "Lora", sans-serif;
-  font-weight: 500;
-  font-size: 16px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 8px 32px;
-  border-radius: 50px;
-  transition: 0.5s;
-  margin-top: 190px;
-  color: #fff;
-  background: #5b8c2a;
-}
-
-#intro .btn-get-started:hover {
-  background: #fff;
-  color: #5b8c2a;
 }
 
 /*--------------------------------------------------------------
@@ -891,35 +866,56 @@ font-weight: 500;
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: rgb(39, 77, 108);
-  padding: 0 0 30px 0;
-  font-weight: 500;
-  font-size: 17px;
-}
-
-#footer .copyright a{
+  background-size: cover;
+  background-color: #274B6C;
   color: #fff;
+  font-size: 17px;
+  font-weight: 500px;
+  text-align: center;
+  padding: 80px 0;
+  position: relative;
 }
 
-#footer .copyright a:hover{
-color: #65B5C7;
+#footer .container {
+  position: relative;
+}
+
+#footer .social-links {
+  margin: 0 0 40px 0;
+}
+
+#footer .social-links a {
+  font-size: 17px;
+  font-weight: 500px;
+  display: inline-block;
+  background: #FFF;
+  color: #274B6C;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+
+#footer .social-links a:hover {
+  background: #65B5C7;
+  color: #fff;
+  text-decoration: none;
 }
 
 #footer .copyright {
-  text-align: center;
-  padding-top: 30px;
-  color: #B6BFC6;
+  margin: 0 0 5px 0;
+}
+
+#footer .copyright span{
+ color: #65B5C7;
 }
 
 #footer .credits {
-  padding-top: 10px;
-  text-align: center;
-  font-size: 17px;
-  color: #fff;
-}
-
-#footer .credits a {
-  transition: 0.3s;
+  font-size: 13px;
 }
 
 /*---------Activity-----------*/
