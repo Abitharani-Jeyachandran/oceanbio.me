@@ -26,7 +26,7 @@
           </div>
         </div>
 
-        <div class="carousel-item" data-interval="3000" style="background-image: url('../assets\img\oceanbiome-slider\oceanbiome-ocean-story-telling.jpg')">
+        <div class="carousel-item" data-interval="3000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-story-telling.jpg')">
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Ocean Storytelling</h2>
@@ -35,7 +35,7 @@
         </div>
 
 
-        <div class="carousel-item" data-interval="3000" style="background-image: url('../assets\img\oceanbiome-slider\oceanbiome-ocean-technology-100.jpg')">
+        <div class="carousel-item" data-interval="3000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-technology-100.jpg')">
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Ocean Technology</h2>
@@ -44,7 +44,7 @@
         </div>
 
 
-        <div class="carousel-item" data-interval="3000" style="background-image: url('../assets\img\oceanbiome-slider\oceanbiome-ocean-community.jpg')">
+        <div class="carousel-item" data-interval="3000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-community.jpg')">
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Ocean Community</h2>
