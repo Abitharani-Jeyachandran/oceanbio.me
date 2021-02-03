@@ -1,8 +1,5 @@
 <!--========================= About Section========================= -->
 <section id="about" class="about">
-<!--<div class="shape shape-1">
-  <img src="" alt="">
-</div>-->
 <div class="container">
   <div class="row">
     <div class="col-xl-8 mx-auto">
