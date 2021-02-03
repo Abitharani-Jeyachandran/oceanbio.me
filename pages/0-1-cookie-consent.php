@@ -41,16 +41,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   }
 
   .light.cc_dialog button.cc_b_ok {
-    background-color: #56509F;
+    background-color: #274B6C;
     color: #FFF;
   }
 
   .light.cc_dialog button.cc_b_cp {
-    color: #56509F;
+    color: #333;
   }
 
   .light.cc_dialog .cc_dialog_text {
-    color: #525D7D;
+    color: #333;
   }
 
   .cc_css_reboot {
@@ -58,11 +58,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   }
 
   .light.cc_dialog {
-    background-color: #f0f0f0
+    background-color: #fff;
   }
 
   .light.cc_dialog .cc_dialog_headline {
-    color: #525D7D;
+    color: #274B6C;
   }
 
   @media (max-width: 480px) {
