@@ -1300,7 +1300,7 @@ font-weight: 500;
 }
 
 .activity {
-  background: url("../../img/about-boxes-bg4.jpg") center center;
+  background: url("../img/about-boxes-bg4.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 100px;
