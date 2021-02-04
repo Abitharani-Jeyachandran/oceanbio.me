@@ -40,8 +40,8 @@
   <link href="../assets/vendor/remixicon/remixicon.css" rel="stylesheet">
   <link href="../assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="../assets/vendor/aos/aos.css" rel="stylesheet">
-  <link href="../assets\vendor\font-awesome/font-awesome.css" rel="stylesheet" type="text/css">
-  <link href="../assets\vendor\animate.css\animate.min.css" rel="stylesheet" type="text/css">
+  <link href="../assets/vendor/font-awesome/font-awesome.css" rel="stylesheet" type="text/css">
+  <link href="../assets/vendor/animate.css/animate.min.css" rel="stylesheet" type="text/css">
   <?php include('0-1-cookie-consent.php'); ?>
 
   <!-- Template Main CSS File -->
