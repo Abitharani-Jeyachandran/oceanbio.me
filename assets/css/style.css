@@ -926,6 +926,7 @@ font-weight: 500;
 #footer .credits a:hover{
   color: #65B5C7;
 }
+
 /*--------------------------------------------------------------
 # activity
 --------------------------------------------------------------*/
@@ -1299,7 +1300,7 @@ font-weight: 500;
 }
 
 .activity {
-  background: url("../img/oceanbiome-img8-100.jpg") center center;
+  background: url("../img/oceanbiome/oceanbiome-img8-100.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 100px;
