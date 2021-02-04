@@ -1,8 +1,3 @@
-<div class="section-title col-xl-8 mx-auto text-center">
-  <span data-aos="fade-up">Activities</span>
-  <p></p>
-</div>
-
 <!-- ======= activity Section ======= -->
 <section id="activity" class="activity">
   <div class="container" data-aos="fade-up">
