@@ -861,7 +861,6 @@ font-weight: 500;
 #footer {
   background-size: cover;
   background-color: #274B6C;
-  background: url("../img/1938.jpg") center center;
   color: #fff;
   font-size: 14px;
   font-weight: 500px;
@@ -1308,7 +1307,7 @@ font-weight: 500;
 
 .activity:before {
   content: "";
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.5);
   position: absolute;
   bottom: 0;
   top: 0;
