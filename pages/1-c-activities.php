@@ -1,6 +1,8 @@
-<div class="section-title col-xl-8 mx-auto text-center">
+<div class="container" data-aos="fade-up">
+  <div class="section-title col-xl-8 mx-auto text-center">
   <span data-aos="fade-up">Activities</span>
   <p></p>
+</div>
 </div>
 
 <!-- ======= activity Section ======= -->
@@ -35,7 +37,7 @@
           <img src="../assets\img\oceanbiome-activities\oceanbiome-education.jpg" alt="">
         </div>
       </div>
-      <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
+      <div class="col-lg-12 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
         <h3 class="col-lg-6 mx-auto">Ocean Education</h3>
         <p class="col-lg-8 mx-auto">
           Citizen Science Education Initiative to educate children, youth, fisherman,
@@ -51,7 +53,7 @@ experiential learning modules.
         <img src="../assets\img\oceanbiome-activities\oceanbiome-activities-story-telling.jpg" alt="">
       </div>
     </div>
-    <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
+    <div class="col-lg-12 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
       <h3 class="col-lg-6 mx-auto">Ocean Storytelling</h3>
       <p class="col-lg-8 mx-auto">
         Storytelling and Visual Literacy are tools to make anyone easily
@@ -69,7 +71,7 @@ destruction.
         <img src="../assets\img\oceanbiome-activities\oceanbiome-activities-tech.jpg" alt="">
       </div>
     </div>
-    <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
+    <div class="col-lg-12 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
       <h3 class="col-lg-6 mx-auto">Ocean Tech</h3>
       <p class="col-lg-8 mx-auto">
         Locally producing technology based solutions to protect the Ocean
@@ -86,7 +88,7 @@ innovative solutions for ocean problems.
         <img src="../assets\img\oceanbiome-activities\oceanbiome-activities-ocean-community.jpg" alt="">
       </div>
     </div>
-    <div class="col-lg-12 pt-4 pt-lg-0 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
+    <div class="col-lg-12 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
       <h3 class="col-lg-6 mx-auto">Ocean Community</h3>
       <p class="para4 col-lg-8 mx-auto">
         Ocean community brings together diverse Ocean Advocates with

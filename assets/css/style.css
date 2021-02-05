@@ -533,13 +533,6 @@ section {
 /*--------------------------------------------------------------
 # About Boxes
 --------------------------------------------------------------*/
-.about-boxes1 {
-  background: url("../img/about-boxes-bg1.jpg") center top no-repeat fixed;
-  background-size: cover;
-  padding: 60px 0 300px 0;
-  position: relative;
-}
-
 .about-boxes2 {
   background: url("../img/about-boxes-bg2.jpg") center top no-repeat fixed;
   background-size: cover;

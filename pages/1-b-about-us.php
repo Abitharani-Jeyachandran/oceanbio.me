@@ -19,8 +19,3 @@
 </div>
 </section>
 <!--========================= about start========================= -->
-
-<section id="about-boxes" class="about-boxes1">
-<div class="container" data-aos="fade-up">
-</div>
-</section>
