@@ -1,9 +1,9 @@
-<div class="container" data-aos="fade-up">
-  <div id="activity" class="section-title col-xl-8 mx-auto text-center">
+<section id="activity">
+  <div class="section-title col-xl-8 mx-auto text-center">
   <span data-aos="fade-up">Activities</span>
   <p></p>
 </div>
-</div>
+</section>
 
 <!-- ======= activity Section ======= -->
 <section class="activity">
