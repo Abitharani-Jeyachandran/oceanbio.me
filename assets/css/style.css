@@ -1018,9 +1018,9 @@ font-weight: 500;
 	left: 5%;
 	top: 80%;
 
-	-webkit-transform: scale(0.4);
-	-moz-transform: scale(0.4);
-	transform: scale(0.4);
+	-webkit-transform: scale(0.2);
+	-moz-transform: scale(0.2);
+	transform: scale(0.2);
 }
 
 .x3 {
@@ -1031,9 +1031,9 @@ font-weight: 500;
 	left: 10%;
 	top: 40%;
 
-  -webkit-transform: scale(0.3);
-	-moz-transform: scale(0.3);
-	transform: scale(0.3);
+  -webkit-transform: scale(0.1);
+	-moz-transform: scale(0.1);
+	transform: scale(0.1);
 }
 
 .x4 {
@@ -1044,9 +1044,9 @@ font-weight: 500;
 	left: 20%;
 	top: 0;
 
-	-webkit-transform: scale(0.4);
-	-moz-transform: scale(0.4);
-	transform: scale(0.4);
+	-webkit-transform: scale(0.3);
+	-moz-transform: scale(0.3);
+	transform: scale(0.3);
 }
 
 .x5 {
@@ -1057,9 +1057,9 @@ font-weight: 500;
 	left: 30%;
 	top: 50%;
 
-	-webkit-transform: scale(0.3);
-	-moz-transform: scale(0.3);
-	transform: scale(0.3);
+	-webkit-transform: scale(0.1);
+	-moz-transform: scale(0.1);
+	transform: scale(0.1);
 }
 
 .x6 {
@@ -1070,9 +1070,9 @@ font-weight: 500;
 	left: 50%;
 	top: 0;
 
-  -webkit-transform: scale(0.4);
-	-moz-transform: scale(0.4);
-	transform: scale(0.4);
+  -webkit-transform: scale(0.2);
+	-moz-transform: scale(0.2);
+	transform: scale(0.2);
 }
 
 .x7 {
@@ -1096,9 +1096,9 @@ font-weight: 500;
 	left: 80%;
 	top: 10%;
 
-	-webkit-transform: scale(0.4);
-	-moz-transform: scale(0.4);
-	transform: scale(0.4);
+	-webkit-transform: scale(0.1);
+	-moz-transform: scale(0.1);
+	transform: scale(0.1);
 }
 
 .x9 {
@@ -1109,9 +1109,9 @@ font-weight: 500;
 	left: 90%;
 	top: 50%;
 
-  -webkit-transform: scale(0.3);
-	-moz-transform: scale(0.3);
-	transform: scale(0.3);
+  -webkit-transform: scale(0.2);
+	-moz-transform: scale(0.2);
+	transform: scale(0.2);
 }
 
 .x10 {
@@ -1122,9 +1122,9 @@ font-weight: 500;
 	left: 80%;
 	top: 80%;
 
-	-webkit-transform: scale(0.4);
-	-moz-transform: scale(0.4);
-	transform: scale(0.4);
+	-webkit-transform: scale(0.1);
+	-moz-transform: scale(0.1);
+	transform: scale(0.1);
 }
 
 /* ANIMATIONS */
@@ -1150,9 +1150,9 @@ font-weight: 500;
 	left: 15%;
 	top: 80%;
 
-	-webkit-transform: scale(0.4);
-	-moz-transform: scale(0.4);
-	transform: scale(0.4);
+	-webkit-transform: scale(0.2);
+	-moz-transform: scale(0.2);
+	transform: scale(0.2);
 }
 
 .x13 {
@@ -1176,9 +1176,9 @@ font-weight: 500;
 	left: 20%;
 	top: 10%;
 
-	-webkit-transform: scale(0.4);
-	-moz-transform: scale(0.4);
-	transform: scale(0.4);
+	-webkit-transform: scale(0.1);
+	-moz-transform: scale(0.1);
+	transform: scale(0.1);
 }
 
 .x15 {
@@ -1189,9 +1189,9 @@ font-weight: 500;
 	left: 50%;
 	top: 50%;
 
-	-webkit-transform: scale(0.3);
-	-moz-transform: scale(0.3);
-	transform: scale(0.3);
+	-webkit-transform: scale(0.2);
+	-moz-transform: scale(0.2);
+	transform: scale(0.2);
 }
 
 .x16 {
@@ -1202,9 +1202,9 @@ font-weight: 500;
 	left: 20%;
 	top: 0;
 
-  -webkit-transform: scale(0.4);
-	-moz-transform: scale(0.4);
-	transform: scale(0.4);
+  -webkit-transform: scale(0.1);
+	-moz-transform: scale(0.1);
+	transform: scale(0.1);
 }
 
 .x17 {
@@ -1228,9 +1228,9 @@ font-weight: 500;
 	left: 60%;
 	top: 10%;
 
-	-webkit-transform: scale(0.4);
-	-moz-transform: scale(0.4);
-	transform: scale(0.4);
+	-webkit-transform: scale(0.1);
+	-moz-transform: scale(0.1);
+	transform: scale(0.1);
 }
 
 .x19 {
@@ -1241,9 +1241,9 @@ font-weight: 500;
 	left: 90%;
 	top: 40%;
 
-  -webkit-transform: scale(0.3);
-	-moz-transform: scale(0.3);
-	transform: scale(0.3);
+  -webkit-transform: scale(0.2);
+	-moz-transform: scale(0.2);
+	transform: scale(0.2);
 }
 
 .x20 {
@@ -1254,9 +1254,9 @@ font-weight: 500;
 	left: 50%;
 	top: 80%;
 
-	-webkit-transform: scale(0.4);
-	-moz-transform: scale(0.4);
-	transform: scale(0.4);
+	-webkit-transform: scale(0.3);
+	-moz-transform: scale(0.3);
+	transform: scale(0.3);
 }
 
 /* OBJECTS */
@@ -1303,7 +1303,7 @@ font-weight: 500;
   background: url("../img/oceanbiome/oceanbiome-img8-100.jpg") center center;
   background-size: cover;
   position: relative;
-  padding: 100px;
+  padding: 100px 0;
   text-align: center;
   background-repeat: no-repeat;
 }
