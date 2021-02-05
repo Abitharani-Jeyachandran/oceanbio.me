@@ -861,6 +861,7 @@ font-weight: 500;
 #footer {
   background-size: cover;
   background-color: #274B6C;
+  background: url("../assets/img/1938.jpg") center center;
   color: #fff;
   font-size: 14px;
   font-weight: 500px;
@@ -1297,7 +1298,7 @@ font-weight: 500;
 }
 
 .activity {
-  background: url("../img/oceanbiome/oceanbiome-img8-100.jpg") center center;
+  background: url("../assets/img/about-boxes-bg1.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 100px 0;
