@@ -9,7 +9,7 @@
       <div class="carousel-inner" role="listbox">
 
 
-        <div class="carousel-item active" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-biome-100.jpg')" class="d-block w-100">
+        <div class="carousel-item active" style="background-image: url('../assets/img/oceanbiome-slider/oceambiome-slider-100.jpg')" class="d-block w-100">
           <div class="carousel-container">
             <div class="container">
               <h2 data-aos="fade-up"></h2>
