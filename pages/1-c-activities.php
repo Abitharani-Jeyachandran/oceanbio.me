@@ -1,12 +1,12 @@
 <div class="container" data-aos="fade-up">
-  <div class="section-title col-xl-8 mx-auto text-center">
+  <div id="activity" class="section-title col-xl-8 mx-auto text-center">
   <span data-aos="fade-up">Activities</span>
   <p></p>
 </div>
 </div>
 
 <!-- ======= activity Section ======= -->
-<section id="activity" class="activity">
+<section class="activity">
   <div class="container" data-aos="fade-up">
     <div id="background-wrap">
     <div class="bubble x1"></div>
