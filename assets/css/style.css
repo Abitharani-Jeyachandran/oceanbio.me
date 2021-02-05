@@ -1048,7 +1048,7 @@ font-weight: 500;
 	animation: animateBubble 15s linear infinite, sideWays 4s ease-in-out infinite alternate;
 
 	left: 30%;
-	top: 10%;
+	top: 50%;
 
 	-webkit-transform: scale(0.2);
 	-moz-transform: scale(0.2);
@@ -1128,7 +1128,7 @@ font-weight: 500;
 	animation: animateBubble 15s linear infinite, sideWays 2s ease-in-out infinite alternate;
 
 	left: -15%;
-	top: 15%;
+	top: 75%;
 
   -webkit-transform: scale(0.3);
 	-moz-transform: scale(0.3);
@@ -1141,7 +1141,7 @@ font-weight: 500;
 	animation: animateBubble 20s linear infinite, sideWays 4s ease-in-out infinite alternate;
 
 	left: 15%;
-	top: 80%;
+	top: 0;
 
 	-webkit-transform: scale(0.2);
 	-moz-transform: scale(0.2);
@@ -1167,7 +1167,7 @@ font-weight: 500;
 	animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
 
 	left: 20%;
-	top: 10%;
+	top: 90%;
 
 	-webkit-transform: scale(0.3);
 	-moz-transform: scale(0.3);
@@ -1206,7 +1206,7 @@ font-weight: 500;
 	animation: animateBubble 15s linear infinite, sideWays 2s ease-in-out infinite alternate;
 
 	left: 65%;
-	top: 40%;
+	top: 0;
 
 	-webkit-transform: scale(0.3);
 	-moz-transform: scale(0.3);
@@ -1219,7 +1219,7 @@ font-weight: 500;
 	animation: animateBubble 22s linear infinite, sideWays 3s ease-in-out infinite alternate;
 
 	left: 60%;
-	top: 10%;
+	top: 90%;
 
 	-webkit-transform: scale(0.3);
 	-moz-transform: scale(0.3);
@@ -1245,7 +1245,7 @@ font-weight: 500;
 	animation: animateBubble 26s linear infinite, sideWays 2s ease-in-out infinite alternate;
 
 	left: 50%;
-	top: 80%;
+	top: 0;
 
 	-webkit-transform: scale(0.3);
 	-moz-transform: scale(0.3);
@@ -1290,6 +1290,10 @@ font-weight: 500;
 	left: 10px;
 	position: absolute;
 	width: 180px;
+}
+
+#activity{
+  padding-bottom: 0;
 }
 
 .activity {
