@@ -1,4 +1,4 @@
-<!-- ======= Trainers Section ======= -->
+<!-- ======= Team Section ======= -->
 <section id="team" class="team">
   <div class="container" data-aos="fade-up">
 
@@ -49,7 +49,7 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\rakesh-oceanbiome.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\sayeetharson-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Sayeetharson Thankavadivel</h4>
             <span>Founding member | Guardian of Ocean Educational </span>
@@ -78,7 +78,7 @@
           <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\oceanbiome-abinayan.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Abinayan Balasubramaniyam</h4>
-            <span>Founding member | Guardian of Administaton</span>
+            <span>Project Lead | School Children</span>
             <div class="social">
               <a href="https://www.linkedin.com/in/abinayan-arun-abi-3947771a4"><i class="icofont-linkedin"></i></a>
             </div>
@@ -104,9 +104,48 @@
           <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\nush-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Rakesh Jegan</h4>
-            <span>Guardian of Finance</span></br>
+            <span>Project Lead | Fisherman</span></br>
             <div class="social">
               <a href="https://www.linkedin.com/in/rakesh-jegan-44b961203"><i class="icofont-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member">
+          <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\Nithusian-oceanbiome.jpg" class="img-fluid" alt="">
+          <div class="member-content">
+            <h4>Nithusan Ravindran</h4>
+            <span>Founding member | Guardian of Ocean Education</span></br>
+            <div class="social">
+              <a href="https://www.linkedin.com/in/nithusan-ravindran-6553b71bb"><i class="icofont-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member">
+          <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\anamigan-oceanbiome.jpg" class="img-fluid" alt="">
+          <div class="member-content">
+            <h4>Anamigan Kumarasingam</h4>
+            <span>Project Lead | Mangroves</span>
+            <div class="social">
+              <a href="https://www.linkedin.com/in/anamigan-kumarasingam-556b94203"><i class="icofont-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member">
+          <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\charukeshan-oceanbiome.jpg" class="img-fluid" alt="">
+          <div class="member-content">
+            <h4>Saarukesan Premkumar</h4>
+            <span>Guardian of Administration</span>
+            <div class="social">
+              <a href="https://www.linkedin.com/mwlite/in/saarukesan-premkumar-7a5a92195"><i class="icofont-linkedin"></i></a>
             </div>
           </div>
         </div>
@@ -149,38 +188,12 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\anamigan-oceanbiome.jpg" class="img-fluid" alt="">
-          <div class="member-content">
-            <h4>Anamigan Kumarasingam</h4>
-            <span>Content Creator</span>
-            <div class="social">
-              <a href="https://www.linkedin.com/in/anamigan-kumarasingam-556b94203"><i class="icofont-linkedin"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-        <div class="member">
           <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\arudprajith-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Arudpirajith Arulanandem </h4>
             <span>Founding member | Content Creator</span>
             <div class="social">
               <a href="https://www.linkedin.com/in/arudpirajith-arulanandem-a8b749204"><i class="icofont-linkedin"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-        <div class="member">
-          <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\charukeshan-oceanbiome.jpg" class="img-fluid" alt="">
-          <div class="member-content">
-            <h4>Saarukesan Premkumar</h4>
-            <span>Graphic designer</span>
-            <div class="social">
-              <a href="https://www.linkedin.com/mwlite/in/saarukesan-premkumar-7a5a92195"><i class="icofont-linkedin"></i></a>
             </div>
           </div>
         </div>
@@ -363,6 +376,19 @@
             <span>Founding member | 3D Designer</span>
             <div class="social">
               <a href="https://www.linkedin.com/in/sherun-sivanesan-4826381b5/"><i class="icofont-linkedin"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
+        <div class="member">
+          <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\gunarahulan-oceanbiome.jpg" class="img-fluid" alt="">
+          <div class="member-content">
+            <h4>Guna Rakulan</h4>
+            <span>Software Engineer</span>
+            <div class="social">
+              <a href="https://www.linkedin.com/in/guna-rakulan-161119156/"><i class="icofont-linkedin"></i></a>
             </div>
           </div>
         </div>
