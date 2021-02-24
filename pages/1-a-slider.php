@@ -35,7 +35,7 @@
         </div>
 
 
-        <div class="carousel-item" data-interval="2000" style="background-image: url('../assets/img/oceanbiome-products/oceanbiome-products-ocean-tech-100.jpg')">
+        <div class="carousel-item" data-interval="2000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-technology-100.jpg')">
           <div class="carousel-container">
             <div class="container">
               <h2 data-aos="fade-up">Ocean Technology</h2>
