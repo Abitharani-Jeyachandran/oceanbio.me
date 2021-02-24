@@ -117,7 +117,7 @@
           <img src="../assets\img\about-oceanbiome\core-team-oceanbiome\Nithusian-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Nithusan Ravindran</h4>
-            <span>Founding member | Guardian of Ocean Education</span></br>
+            <span>Founding member | Guardian of Ocean Education</span>
             <div class="social">
               <a href="https://www.linkedin.com/in/nithusan-ravindran-6553b71bb"><i class="icofont-linkedin"></i></a>
             </div>
@@ -130,7 +130,7 @@
           <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\anamigan-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Anamigan Kumarasingam</h4>
-            <span>Project Lead | Mangroves</span>
+            <span>Project Lead | Mangroves</span></br>
             <div class="social">
               <a href="https://www.linkedin.com/in/anamigan-kumarasingam-556b94203"><i class="icofont-linkedin"></i></a>
             </div>
@@ -143,7 +143,7 @@
           <img src="../assets\img\about-oceanbiome\working-team-oceanbiome\charukeshan-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Saarukesan Premkumar</h4>
-            <span>Guardian of Administration</span>
+            <span>Guardian of Administration</span></br>
             <div class="social">
               <a href="https://www.linkedin.com/mwlite/in/saarukesan-premkumar-7a5a92195"><i class="icofont-linkedin"></i></a>
             </div>
