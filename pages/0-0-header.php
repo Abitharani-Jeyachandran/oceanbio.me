@@ -6,7 +6,10 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <!-- Primary Meta Tags -->
-  <title>OceanBiome</title>
+  <title>OceanBiome | OceanBiome Srilanka | Ocean research Srilanka | Ocean ambassadors Srilanka | Ocean protection Srilanka | Ocean ambassadors Batticaloa |
+  Ocean education Srilanka | Ocean Storytelling Srilanka | Ocean technology Srilanka | Ocean community Srilanka | Ocean community Batticaloa |
+  Ocean ecosystem Srilanka | Underwater glider Batticaloa | Underwater glider Srilanka | Oceanbiome underwater glider | Oceanbiome ambassadors Srilanka | Oceanbiome community Srilanka |
+  Ocean education Batticaloa Srilanka | Ocean Storytelling Batticaloa Srilanka | Ocean ecosystem Batticaloa Srilanka | Ocean technology Batticaloa Srilanka</title>
   <meta name="title" content="OceanBiome">
   <meta name="description" content="OceanBiome is a community of talents with a focus on ocean research to map the path to engage in Ocean Protection to enable the next generation of leaders to engage in ocean literacy and stewardship to become ocean ambassadors in Sri Lanka.">
 
