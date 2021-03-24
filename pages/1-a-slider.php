@@ -18,36 +18,36 @@
         </div>
 
 
-        <div class="carousel-item" data-interval="2000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-education-100.jpg')">
+        <div class="carousel-item" data-interval="2000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-education-1001.jpg')">
           <div class="carousel-container">
             <div class="container">
-              <h2 data-aos="fade-up">Ocean Education</h2>
+              <h2 data-aos="fade-up"></h2>
             </div>
           </div>
         </div>
 
-        <div class="carousel-item" data-interval="2000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-story-telling.jpg')">
+        <div class="carousel-item" data-interval="2000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-story-telling1.jpg')">
           <div class="carousel-container">
             <div class="container">
-              <h2 data-aos="fade-up">Ocean Storytelling</h2>
-            </div>
-          </div>
-        </div>
-
-
-        <div class="carousel-item" data-interval="2000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-tech2.jpg')">
-          <div class="carousel-container">
-            <div class="container">
-              <h2 data-aos="fade-up">Ocean Technology</h2>
+              <h2 data-aos="fade-up"></h2>
             </div>
           </div>
         </div>
 
 
-        <div class="carousel-item" data-interval="2000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-community.jpg')">
+        <div class="carousel-item" data-interval="2000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-tech21.jpg')">
           <div class="carousel-container">
             <div class="container">
-              <h2 data-aos="fade-up">Ocean Community</h2>
+              <h2 data-aos="fade-up"></h2>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="carousel-item" data-interval="2000" style="background-image: url('../assets/img/oceanbiome-slider/oceanbiome-ocean-community1.jpg')">
+          <div class="carousel-container">
+            <div class="container">
+              <h2 data-aos="fade-up"></h2>
             </div>
           </div>
         </div>
