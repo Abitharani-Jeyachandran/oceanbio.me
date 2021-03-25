@@ -40,7 +40,7 @@
         <div class="col-lg-6 pt-4 pt-lg-0 content">
           <h3>Beach Cleanup</h3>
           <p>
-            Oceanbiome conducted a beach cleanup on 23rd March 2021 in Kallady beach with the collaboration of <a href="https://dreamspace.academy/pages/1-0-index.php">DreamSpace Academy</a> <a href="https://trashfortrade.com/pages/1-0-index.php">Trash for Trade</a> and <a href="https://srilankaunites.org/">Sri Lanka Unites Youth Reconciliation Center - Batticaloa</a>. And also organized a discussion to take a stand against the destruction of our environment.
+            Oceanbiome conducted a beach cleanup on 23rd March 2021 in Kallady beach along with <a href="https://dreamspace.academy/pages/1-0-index.php">DreamSpace Academy</a> <a href="https://trashfortrade.com/pages/1-0-index.php">Trash for Trade</a> and <a href="https://srilankaunites.org/">Sri Lanka Unites Youth Reconciliation Center - Batticaloa</a>. And also organized a discussion to take a stand against the ecocide.
           </p>
         </div>
       </div>
