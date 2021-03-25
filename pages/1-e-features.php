@@ -35,12 +35,12 @@
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="../assets\img\features-oceanbiome\start-next.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\features-oceanbiome\oceanbiome-beach-cleanup.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
-          <h3>Keynote speech</h3>
+          <h3>Beach Cleanup</h3>
           <p>
-            Our Co-founder, Shanjeevan delivered his first keynote speech abroad on December 19th at StartNext organised by the Brampton Tamil Association Canada. STARTNEXT is a virtual event consisting of workshops, presentations and networking opportunities to boost entrepreneurship among young and experienced business owners.
+            Oceanbiome conducted a beach cleanup in Kallady beach with the collaboration of <a href="https://dreamspace.academy/pages/1-0-index.php">DreamSpace Academy</a> <a href="https://trashfortrade.com/pages/1-0-index.php">Trash for Trade</a> and <a href="https://srilankaunites.org/">Sri Lanka Unites Youth Reconciliation Center - Batticaloa</a>. And also organized a discussion to take a stand against the destruction of our environment.
           </p>
         </div>
       </div>
