@@ -35,12 +35,12 @@
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="../assets\img\features-oceanbiome\start-next.jpg" class="img-fluid" alt="">
+          <img src="../assets\img\features-oceanbiome\oceanbiome-plastic-free-poya.jpeg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
-          <h3>Keynote speech</h3>
+          <h3>Plastic Free Poya</h3>
           <p>
-            Our Co-founder, Shanjeevan delivered his first keynote speech abroad on December 19th at StartNext organised by the Brampton Tamil Association Canada. STARTNEXT is a virtual event consisting of workshops, presentations and networking opportunities to boost entrepreneurship among young and experienced business owners.
+            We step into plastic free poya movement as the initiative of ocean biome. Dedicating a day for environmental conservation by eliminating plastic pollution. This very first prime initiative "plastic free poya"  welcomes everyone to take part for preserving this world for the future generations.
           </p>
         </div>
       </div>
