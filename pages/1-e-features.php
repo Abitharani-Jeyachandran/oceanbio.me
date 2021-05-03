@@ -8,10 +8,19 @@
     </div>
 
     <div class="owl-carousel feature-carousel" data-aos="fade-up" data-aos-delay="100">
+      <div class="row event-item">
+        <div class="col-lg-6">
+          <img src="../assets/img/features-oceanbiome/oceanbiome-bbc-article.jpg" class="img-fluid" alt="">
+        </div>
+        <div class="col-lg-6 pt-4 pt-lg-0 content">
+          <h3>Featured on BBC</h3>
+          <p>Shanjeevan has featured in BbC news while covering the awardees of DofE globally on the burial day of DofE Prince Charles. And he said "The award made me what I am today," about the award. For the complete article...</br><a href="https://www.bbc.com/news/uk-56734327">https://www.bbc.com/news/uk-56734327</a></p>
+        </div>
+      </div>
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="../assets\img\features-oceanbiome\shanakiyan-speech.png" class="img-fluid" alt="">
+          <img src="../assets/img/features-oceanbiome/oceanbiome-shanakiyan-speech.png" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
           <h3>Parliament Speech</h3>
@@ -23,7 +32,7 @@
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="../assets\img\features-oceanbiome\underwater-glider.jpg" class="img-fluid" alt="">
+          <img src="../assets/img/features-oceanbiome/oceanbiome-underwater-glider.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
           <h3>Underwater Glider</h3>
@@ -35,7 +44,7 @@
 
       <div class="row event-item">
         <div class="col-lg-6">
-          <img src="../assets\img\features-oceanbiome\oceanbiome-plastic-free-poya.jpeg" class="img-fluid" alt="">
+          <img src="../assets/img/features-oceanbiome/oceanbiome-plastic-free-poya.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
           <h3>Plastic Free Poya</h3>

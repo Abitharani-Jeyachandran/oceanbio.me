@@ -34,7 +34,7 @@
     <div class="row">
       <div class="col-lg-6 mx-auto col-md-8 col-sm-8 order-1 order-lg-1" data-aos="fade-up" data-aos-delay="400">
         <div class="activity-img">
-          <img src="../assets\img\oceanbiome-activities\oceanbiome-education.jpg" alt="">
+          <img src="../assets/img/oceanbiome-activities/oceanbiome-education.jpg" alt="">
         </div>
       </div>
       <div class="col-lg-12 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
@@ -50,7 +50,7 @@ experiential learning modules.
   <div class="row">
     <div class="col-lg-6 mx-auto col-md-8 col-sm-8 order-1 order-lg-1" data-aos="fade-up" data-aos-delay="400">
       <div class="activity-img">
-        <img src="../assets\img\oceanbiome-activities\oceanbiome-activities-story-telling.jpg" alt="">
+        <img src="../assets/img/oceanbiome-activities/oceanbiome-activities-story-telling.jpg" alt="">
       </div>
     </div>
     <div class="col-lg-12 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
@@ -68,7 +68,7 @@ destruction.
   <div class="row">
     <div class="col-lg-6 mx-auto col-md-8 col-sm-8 order-1 order-lg-1" data-aos="fade-up" data-aos-delay="400">
       <div class="activity-img">
-        <img src="../assets\img\oceanbiome-activities\oceanbiome-activities-tech.jpg" alt="">
+        <img src="../assets/img/oceanbiome-activities/oceanbiome-activities-tech.jpg" alt="">
       </div>
     </div>
     <div class="col-lg-12 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
@@ -85,7 +85,7 @@ innovative solutions for ocean problems.
   <div class="row">
     <div class="col-lg-6 mx-auto col-md-8 col-sm-8 order-1 order-lg-1" data-aos="fade-up" data-aos-delay="400">
       <div class="activity-img">
-        <img src="../assets\img\oceanbiome-activities\oceanbiome-activities-ocean-community.jpg" alt="">
+        <img src="../assets/img/oceanbiome-activities/oceanbiome-activities-ocean-community.jpg" alt="">
       </div>
     </div>
     <div class="col-lg-12 order-2 order-lg-2 content" data-aos="fade-up" data-aos-delay="600">
