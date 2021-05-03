@@ -14,7 +14,7 @@
         </div>
         <div class="col-lg-6 pt-4 pt-lg-0 content">
           <h3>Featured on BBC</h3>
-          <p>Shanjeevan has featured in BbC news while covering the awardees of DofE globally on the burial day of DofE Prince Charles. And he said "The award made me what I am today," about the award. For the complete article...</br><a href="https://www.bbc.com/news/uk-56734327">https://www.bbc.com/news/uk-56734327</a></p>
+          <p>Shanjeevan has featured in BbC news while covering the awardees of DofE globally on the burial day of DofE Prince philip. And he said "The award made me what I am today," about the award. For the complete article...</br><a href="https://www.bbc.com/news/uk-56734327">https://www.bbc.com/news/uk-56734327</a></p>
         </div>
       </div>
 
