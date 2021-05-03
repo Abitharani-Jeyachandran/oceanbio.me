@@ -146,6 +146,7 @@
       <p></p>
     </div>
 
+    <div class="row" data-aos="fade-up">
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
           <img src="../assets/img/about-oceanbiome/working-team-oceanbiome/abishethvarman-oceanbiome.jpg" class="img-fluid" alt="">

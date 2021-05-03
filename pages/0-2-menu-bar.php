@@ -21,7 +21,6 @@
           </ul>
         </li>
         <li><a href="1-0-index.php#activity">activities</a></li>
-        <li><a href="1-0-index.php#product">Products</a></li>
         <li><a href="1-0-index.php#feature">Featured</a></li>
 
       </ul>
