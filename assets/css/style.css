@@ -379,11 +379,6 @@ h1, h2, h3, h4, h5, h6 {
   background-repeat: no-repeat;
 }
 
-#intro .carousel-item::before {
-  content: '';
-  background-color: rgba(0, 0, 0, 0.2);
-}
-
 #intro .carousel-container {
   display: flex;
   justify-content: center;
