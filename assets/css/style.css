@@ -849,86 +849,52 @@ font-weight: 500;
 }
 
 /*--------------------------------------------------------------
-# activity
+# More Services
 --------------------------------------------------------------*/
-#activity{
-  padding-bottom: 0;
+.more-services {
+  padding-top: 0;
 }
 
-.activity {
-  background: url("../img/about-boxes-bg1.jpg") center center;
+.more-services .card {
+  border: 0;
+  padding: 160px 20px 20px 20px;
+  position: relative;
+  width: 100%;
   background-size: cover;
-  position: relative;
-  padding: 100px 0;
-  text-align: center;
   background-repeat: no-repeat;
+  background-position: center center;
 }
 
-.activity:before {
-  content: "";
+.more-services .card-body {
+  z-index: 10;
   background: rgba(0, 0, 0, 0.5);
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
+  padding: 15px 30px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  transition: ease-in-out 0.4s;
+  border-radius: 5px;
 }
 
-.activity .activity-img {
-  position: relative;
-  transition: .5s;
+.more-services .card-title {
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 15px;
 }
 
-.activity .activity-img img {
-  max-width: 100%;
-  position: relative;
+.more-services .card-title {
+  color: #fff;
 }
 
-
-.activity .activity-img:hover {
-  transform: scale(1.03);
+.more-services .card-text {
+  color: #fff;
 }
 
-.activity .activity-img:hover::before {
-  left: 10px;
-  top: 10px;
+.more-services .card:hover .card-body {
+  background: #274D6C;
 }
 
-.activity .activity-img:hover::after {
-  right: 10px;
-  bottom: 10px;
-}
-
-.activity .content h3 {
-  font-weight: 600;
-  font-size: 26px;
-  padding-top: 15px;
-  color: #FFF;
-}
-
-.activity .content p{
-  padding-bottom: 350px;
-  color: #FFF;
-}
-
-.activity .content .para4{
-  padding-bottom: 0;
-}
-
-@media(max-width:768px){
-  .activity .content p{
-    padding-bottom: 150px;
-  }
-}
-
-.activity .content p:last-child {
-  margin-bottom: 0;
-}
-
-@media (min-width: 1024px) {
-  .activity {
-    background-attachment: fixed;
-  }
+.more-services .card:hover .card-title, .more-services .card:hover .card-title a, .more-services .card:hover .card-text {
+  color: #fff;
 }
 
 /*------------Imprint-----------*/
