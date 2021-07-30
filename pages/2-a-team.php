@@ -26,7 +26,7 @@
           <img src="../assets/img/about-oceanbiome/core-team-oceanbiome/aravinth-oceanbiome.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Aravinth Panch</h4>
-            <span>Co-founder | Guardian of Networking</span></br>
+            <span>Co-founder</span></br>
             <div class="social">
               <a href="https://www.linkedin.com/in/aravinthpanch/"><i class="icofont-linkedin"></i></a>
             </div>
