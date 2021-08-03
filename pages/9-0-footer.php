@@ -1,4 +1,4 @@
-<?php include('3-1-footer-bar.php'); ?>
+<?php include('9-1-footer-bar.php'); ?>
 
 <!-- Vendor JS Files -->
 <script src="../assets/vendor/jquery/jquery.min.js"></script>

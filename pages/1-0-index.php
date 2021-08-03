@@ -6,4 +6,4 @@
 <?php include('1-e-features.php'); ?>
 <?php include('1-f-contact.php'); ?>
 </div>
-<?php include('3-0-footer.php'); ?>
+<?php include('9-0-footer.php'); ?>

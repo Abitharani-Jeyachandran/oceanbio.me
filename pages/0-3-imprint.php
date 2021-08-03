@@ -20,5 +20,5 @@
 </div>
 </section>
 
-<?php include('3-0-footer.php'); ?>
+<?php include('9-0-footer.php'); ?>
 <!--========================= Imprint End ========================= -->
