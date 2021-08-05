@@ -106,66 +106,58 @@ The stakeholders will support the innovative BlueTech solutions emerging from th
       </div>
     </section><!-- End About Section -->
 
-    <section class="container">
-<div class="row">
-              <div class="col-md-12">
-                  <div class="main-timeline">
-                      <div class="timeline">
-                          <a href="#" class="timeline-content">
-                              <div class="timeline-icon">
-                                  <i class="bx bx-map"></i>
-                              </div>
-                              <h3 class="title">Register for Blue Tech Hackathon</h3>
-                          </a>
-                      </div>
-                      <div class="timeline">
-                          <a href="#" class="timeline-content">
-                              <div class="timeline-icon">
-                                  <i class="fa fa-globe"></i>
-                              </div>
-                              <h3 class="title">Submit your proposals with innovative and creative ideas.</h3>
-                          </a>
-                      </div>
-                      <div class="timeline">
-                          <a href="#" class="timeline-content">
-                              <div class="timeline-icon">
-                                  <i class="fa fa-rocket"></i>
-                              </div>
-                              <h3 class="title">Participate in the Blue Tech Hackathon awareness session.</h3>
-                          </a>
-                      </div>
-                      <div class="timeline">
-                          <a href="#" class="timeline-content">
-                              <div class="timeline-icon">
-                                  <i class="fa fa-globe"></i>
-                              </div>
-                              <h3 class="title">Take part in the three days main event of Blue Tech Hackathon.</h3>
-                          </a>
-                      </div>
-                  </div>
-              </div>
-          </div>
-</section>
+    <!-- ***** Awards start ***** -->
+        <section class="section" id="awards">
+            <div class="container">
+                <!-- Confettis Animation -->
+                <div id="confettis" data-scroll-reveal="enter bottom move 30px over 0.3s after 0.2s">
+                    <div class="confetti"></div>
+                    <div class="confetti"></div>
+                    <div class="confetti"></div>
+                    <div class="confetti"></div>
+                    <div class="confetti"></div>
+                    <div class="confetti"></div>
+                    <div class="confetti"></div>
+                    <div class="confetti"></div>
+                </div>
 
-    <div id="particle-container">
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div>
-      <div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    </div>
+                <h2 class="section-title">Award</h2>
+                <div class="astrodivider"><div class="astrodividermask"></div><span><i class='bx bx-water'></i></span></div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"
+                        data-scroll-reveal="enter left move 30px over 0.3s after 0.2s">
+                        <div class="features-item">
+                            <div class="features-icon">
+                                <h2>2<sup>nd</sup></h2>
+                                <img style="height: 130px;" src="../assets/img/second.png" alt="">
+                                <h4>LKR 50000</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"
+                        data-scroll-reveal="enter bottom move 30px over 0.3s after 0.2s">
+                        <div class="features-item">
+                            <div class="features-icon">
+                                <h2>1<sup>st</sup></h2>
+                                <img style="height: 160px;" src="../assets/img/first.png" alt="">
+                                <h4>LKR 75000</h4>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 col-xs-12"
+                        data-scroll-reveal="enter right move 30px over 0.3s after 0.2s">
+                        <div class="features-item">
+                            <div class="features-icon">
+                                <h2>3<sup>rd</sup></h2>
+                                <img style="height: 130px;" src="../assets/img/third.png" alt="">
+                                <h4>LKR 25000</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--  ***** Awards End ***** -->
 
     <!-- ======= Team Section ======= -->
     <section id="bth-team" class="bth-team">
