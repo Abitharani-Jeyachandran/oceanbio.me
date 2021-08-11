@@ -55,25 +55,24 @@
   <main id="main">
 
     <div id="particle-container">
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div>
       <div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
-    	<div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
+      <div class="particle"></div><div class="particle"></div>
     </div>
-
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container">
@@ -105,6 +104,121 @@ The stakeholders will support the innovative BlueTech solutions emerging from th
 
       </div>
     </section><!-- End About Section -->
+    <section class="about_hack">
+        <div class="overlay-about">
+            <div class="container text-left">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <p>
+                          Sri Lanka is an island country located in the Indian Ocean, with a coastline of 1,585 km long.
+
+  </br></br>The country claims an Exclusive Economic Zone (EEZ) extending 200 nautical miles, which is approximately 6.7 times Sri Lanka's landmass.
+
+  </br></br>Sri Lanka is dependent on the income from the ocean-based mercantile and tourism. The fisheries industry plays a vital role in Sri Lanka’s economy.
+
+  </br></br>Most importantly, the ocean is significant for balancing the global ecosystem.
+
+  </br></br>Marine and freshwater resources face many problems in our country. Oil spills, dumping of waste from ships, coral & sand mining, and industrial activities are the leading causes of marine pollution in and around the country.
+
+  </br></br>And even though it is one of the most important ecosystems of the globe that’s in danger, there are no immediate actions taken to avoid such pollution or even to minimize the effects of it. The reason for this is, that even though there are many solutions and open resources available to tackle these challenges, not everyone finds enough moral and financial support to develop them practically.
+
+  </br></br>In Sri Lanka, no specific programs are conducted to empower those who want to manage and resolve water-related issues. Hence, DreamSpace Academy has taken the initiative to provide a platform - BlueTech Hackathon, where creative minds can come together in order to find and implement solutions that improvise the marine ecosystems and sustain them.
+</p>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+      <!-- Schedule Section Start -->
+      <section id="schedules" class="schedule section-padding">
+        <div class="container">
+          <h2 class="section-title">About</h2>
+          <div class="astrodivider"><div class="astrodividermask"></div><span><i class='bx bx-water'></i></span></div>
+
+
+          <div class="row">
+            <div class="col-md-12">
+              <div class="main-timeline">
+                <div class="timeline wow fadeInLeft" data-wow-delay=".3s">
+                  <a href="#" class="timeline-content">
+                    <div class="timeline-year text-center pt-3">
+
+                      <span class="t-year">15</span><br>
+                      <span class="t-month">JUNE</span>
+
+                    </div>
+                    <div class="timeline-icon">
+                      <i class="icofont-rocket" aria-hidden="true"></i>
+                    </div>
+                    <h3 class="title">Registration</h3>
+                    <p class="description">
+                      Once the registration is opened, login our website and submit your details of you/your team through the registration link
+                    </p>
+                  </a>
+                </div>
+                <div class="timeline wow fadeInRight" data-wow-delay=".3s">
+                  <a href="#" class="timeline-content">
+                    <div class="timeline-year text-center pt-3">
+                      <span class="t-year">26</span><br>
+                      <span class="t-month">JULY</span>
+                    </div>
+                    <div class="timeline-icon">
+                      <i class="icofont-clock-time" aria-hidden="true"></i>
+
+                    </div>
+                    <h3 class="title">Proposal Submission</h3>
+                    <p class="description">
+                      Once the proposal submissions are open, download the sample proposal structure and upload your filled proposal through the website.
+                    </p>
+                  </a>
+                </div>
+
+                <div class="timeline wow fadeInLeft" data-wow-delay=".3s">
+                  <a href="#" class="timeline-content">
+                    <div class="timeline-year text-center pt-3">
+                      <span class="t-year">29</span><br>
+                      <span class="t-month">JULY</span>
+                    </div>
+                    <div class="timeline-icon">
+                      <i class="icofont-laptop" aria-hidden="true"></i>
+                    </div>
+                    <h3 class="title">Intermediate webinar</h3>
+                    <p class="description">
+                      10 teams with the best innovative idea will be selected through the initial filtration and invited to some introduction sessions of Blue Tech Hackathon</br>Tools
+</br>Process
+</br>Sample innovations
+</br>Ideas
+
+                    </p>
+                  </a>
+                </div>
+
+                <div class="timeline wow fadeInLeft" data-wow-delay=".3s">
+                  <a href="#" class="timeline-content">
+                    <div class="timeline-year text-center pt-3">
+                      <span class="t-year">19</span><br>
+                      <span class="t-month">AUG</span>
+                    </div>
+                    <div class="timeline-icon">
+                      <i class="icofont-laptop" aria-hidden="true"></i>
+                    </div>
+                    <h3 class="title">Main event</h3>
+                    <p class="description">
+                      In this three day main event, the selected teams will do the initial pitch. They will attend the design thinking process seminar and learn from  marine experts about x, y, z, etc. Finally they will  pitch their updated project idea to the juries.The results will be announced on the final day.
+                    </p>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+      </section>
+      <!-- Schedule Section End -->
 
     <!-- ***** Awards start ***** -->
         <section class="section" id="awards">
@@ -159,6 +273,27 @@ The stakeholders will support the innovative BlueTech solutions emerging from th
         </section>
         <!--  ***** Awards End ***** -->
 
+        <!-- Organized by Section Start-->
+          <section id="organize">
+            <div class="container">
+              <h2 class="section-title">Organized By</h2>
+              <div class="astrodivider"><div class="astrodividermask"></div><span><i class='bx bx-water'></i></span></div>
+              <div class="row center justify-content-center text-center">
+                <div class="col-md-4 justify-content-center">
+                  <img class="" src="../assets/img/logo png.png" alt=""
+                    style="max-width:300px;height:auto; ">
+                  <!-- <h5 class="LogoBrand_sedsSabra">SEDS Sabra</h5> -->
+                </div>
+                <div class="col-md-4 justify-content-center text-center">
+                  <img class="" src="../assets/img/dreamspace-logo.png" alt=""
+                    style="max-width:250px;height:auto; ">
+                  <!--<h5 class="LogoBrand_ieee">IEEE Student Branch of SUSL</h5> -->
+                </div>
+
+              </div>
+            </div>
+          </section>
+          <!-- Organized by Section End-->
     <!-- ======= Team Section ======= -->
     <section id="bth-team" class="bth-team">
       <div class="container">
