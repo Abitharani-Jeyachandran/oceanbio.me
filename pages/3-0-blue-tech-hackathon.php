@@ -38,16 +38,6 @@
 
         </div>
 
-        <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon icofont-rounded-left" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-
-        <a class="carousel-control-next" href="#heroCarousel" role="button" data-slide="next">
-          <span class="carousel-control-next-icon icofont-rounded-right" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-
       </div>
     </div>
   </section><!-- End Hero -->
@@ -76,7 +66,7 @@
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
       <div class="container">
-<h2 class="section-title">About</h2>
+        <h1 class="section-title">About</h1>
 <div class="astrodivider"><div class="astrodividermask"></div><span><i class='bx bx-water'></i></span></div>
         <div class="row">
           <div class="col-lg-6">
@@ -132,10 +122,51 @@ The stakeholders will support the innovative BlueTech solutions emerging from th
         </div>
     </section>
 
+    <!-- ======= Counts Section ======= -->
+    <section id="counts" class="counts">
+      <div class="container">
+        <h2 class="section-title">Focus Areas</h2>
+        <div class="astrodivider pb-4"><div class="astrodividermask"></div><span><i class='bx bx-water'></i></span></div>
+
+        <div class="row pt-4">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="count-box">
+              <i class="bx bx-water"></i>
+              <p>Physical Oceanography</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
+            <div class="count-box">
+              <i class="bx bx-water"></i>
+              <p>Chemical Oceanography</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="count-box">
+              <i class="bx bx-water"></i>
+              <p>Fisheries</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
+            <div class="count-box">
+              <i class="bx bx-water"></i>
+              <p>Aqua Culture</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Counts Section -->
+
       <!-- Schedule Section Start -->
-      <section id="schedules" class="schedule section-padding">
+      <section id="schedules" class="schedule pt-4">
         <div class="container">
-          <h2 class="section-title">About</h2>
+          <h2 class="section-title pt-4">Timeline</h2>
           <div class="astrodivider"><div class="astrodividermask"></div><span><i class='bx bx-water'></i></span></div>
 
 
