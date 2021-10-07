@@ -1,4 +1,5 @@
 <?php include('0-0-header.php') ?>
+<link href="../assets/css/bth-style.css" rel="stylesheet">
 
 <!-- ======= Hero Section ======= -->
   <section id="hero">
