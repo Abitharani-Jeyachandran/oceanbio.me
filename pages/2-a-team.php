@@ -292,19 +292,6 @@
 
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
         <div class="member">
-          <img src="../assets/img/about-oceanbiome/working-team-oceanbiome/abitharani-oceanbiome.jpg" class="img-fluid" alt="">
-          <div class="member-content">
-            <h4>Abitharani Jeyachandran</h4>
-            <span>Web Designer</span>
-            <div class="social">
-              <a href="https://www.linkedin.com/in/abitharani-jeyachandran-8372b6199/"><i class="icofont-linkedin"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
-        <div class="member">
           <img src="../assets/img/about-oceanbiome/working-team-oceanbiome/oceanbiome-sherun.jpg" class="img-fluid" alt="">
           <div class="member-content">
             <h4>Sherun Sivanesan</h4>
