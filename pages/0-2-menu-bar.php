@@ -22,6 +22,9 @@
         </li>
         <li><a href="1-0-index.php#activity">activities</a></li>
         <li><a href="1-0-index.php#feature">Featured</a></li>
+        <!--<li><a href="1-0-index.php#feature">PFP</a></li>
+        <li><a href="3-0-blue-tech-hackathon.php">Blue Tech Hackathon</a></li>-->
+
 
       </ul>
     </nav><!-- .nav-menu -->

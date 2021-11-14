@@ -5,4 +5,4 @@
 <?php include('2-c-partners.php') ?>
 <?php include('2-d-awards.php') ?>
 </div>
-<?php include('3-0-footer.php') ?>
+<?php include('9-0-footer.php') ?>
