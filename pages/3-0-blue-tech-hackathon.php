@@ -71,7 +71,7 @@
 <div class="astrodivider"><div class="astrodividermask"></div><span><i class='bx bx-water'></i></span></div>
         <div class="row">
           <div class="col-lg-6">
-            <img src="../assets/img/about-boxes-bg4.jpg" class="img-fluid" alt="">
+            <img src="../assets/img/about-boxes-dive.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content">
             <p>
