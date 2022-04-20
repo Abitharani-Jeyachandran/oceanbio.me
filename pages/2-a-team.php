@@ -6,7 +6,6 @@
       <span data-aos="fade-up">Core Team</span>
       <p></p>
     </div>
-    <iframe src="../assets/position_field_officer.pdf" type="application/pdf" height="750vh" width="100%" class="responsive"></iframe>
 
     <div class="row" data-aos="fade-up">
       <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
