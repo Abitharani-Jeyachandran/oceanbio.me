@@ -5,7 +5,6 @@
       <span data-aos="fade-up">Contact Us</span>
       <p></p>
     </div>
-
     <div class="row justify-content-center">
       <div class="col-lg-4 col-md-12" data-aos="fade-up" data-aos-delay="100">
         <div class="info-box text-center">
