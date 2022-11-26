@@ -58,7 +58,7 @@
 
   - Step 01: Clone the repository
 
-    - git clone https://github.com/dreamspace-academy/dreamspace.academy.git
+    - git clone https://github.com/dreamspace-academy/oceanbio.me.git
 
   - Step 02: Change the working branch to dev branch
 
